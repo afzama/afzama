@@ -2,7 +2,7 @@
 - 👀 I’m interested in becoming a full-stack software developer
 - 🌱 I’m currently learning mySQL
 - 💞️ I’m looking to collaborate on building new software features and functionality
-- 📫 How to reach me github or linkedin
+- 📫 Let's chat! -> maria.binte.afzal@gmail.com
 
 <!---
 afzama/afzama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
