@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maria Afzal
 - 👀 I’m interested in becoming a full-stack software developer
-- 🌱 I’m currently learning mySQL
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on building new software features and functionality
 - 📫 Let's chat! -> maria.binte.afzal@gmail.com
 
